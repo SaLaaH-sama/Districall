@@ -1,0 +1,8 @@
+controllers:
+    resource: '../src/Controller/'
+    type: annotation
+
+# config/routes.yaml
+home:
+    path: /
+    controller: App\Controller\HomeController::index
