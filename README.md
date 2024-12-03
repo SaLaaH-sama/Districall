@@ -45,5 +45,4 @@
 - **Symfony Framework** : Utilisé pour sa robustesse et sa flexibilité dans le développement d'applications web.
 - **Doctrine ORM** : Utilisé pour la gestion des bases de données, permettant une interaction facile avec les entités.
 - **API Platform** : Utilisé pour créer des API RESTful et GraphQL rapidement et efficacement.
-- **PHPUnit** : Utilisé pour les tests unitaires et fonctionnels afin d'assurer la qualité du code.
 - **Twig** : Utilisé comme moteur de templates pour séparer la logique de présentation de la logique métier.
